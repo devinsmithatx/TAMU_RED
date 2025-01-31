@@ -1,5 +1,5 @@
 # Description
-This reprository contains the work I have done on Texas A&M University Rocket Engine Design Student Organization.
+This reprository contains the work I have done on Texas A&M University Rocket Engine Design.
 
 # Projects
 Elysium - Control system for liquid rocket engine throttling and thrust vectoring - __In Progress__\
