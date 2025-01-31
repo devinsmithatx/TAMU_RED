@@ -2,6 +2,6 @@
 This reprository contains the work I have done on Texas A&M University Rocket Engine Design Student Organization.
 
 # Projects
-Genesis - Preliminary rocket engine design\
-WTS - Test stand for fluid system components\
-Elysium - successful rocket engine - __In Progress__
+Genesis - Microcontroller code for a liquid rocket engine\
+WTS - GUI for a fluid system test bench\
+Elysium - Control system for a liquid rocket engien - __In Progress__
