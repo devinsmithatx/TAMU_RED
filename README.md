@@ -4,4 +4,4 @@ This reprository contains the work I have done on Texas A&M University Rocket En
 # Projects
 Genesis - Microcontroller code for a liquid rocket engine\
 WTS - GUI for a fluid system test bench\
-Elysium - Control system for a liquid rocket engien - __In Progress__
+Elysium - Control system for a liquid rocket engine - __In Progress__
